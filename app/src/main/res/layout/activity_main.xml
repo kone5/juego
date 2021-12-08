@@ -42,8 +42,8 @@
             android:id="@+id/image_eigthBall"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            app:srcCompat="@drawable/ball1"
-            android:contentDescription="@string/todo" />
+            android:contentDescription="@string/todo"
+            app:srcCompat="@drawable/ball1" />
     </LinearLayout>
 
     <LinearLayout
